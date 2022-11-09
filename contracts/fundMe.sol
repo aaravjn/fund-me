@@ -8,7 +8,7 @@ import "./priceConvertor.sol";
   * @author Aarav Jain
   * @notice This contract is to demo a sample funding contract
   * @dev This implements Price Feeds as our library
- */
+*/
 contract FundMe {
     using PriceConvertor for uint256;
 

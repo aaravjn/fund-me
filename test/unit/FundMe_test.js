@@ -3,7 +3,7 @@ const { assert, expect } = require("chai")
 const { developmentChains } = require("../../helper-hardhat-config")
 
 
-! developmentChains,includes(network.name)
+! developmentChains.includes(network.name)
     ? describe.skip
     : describe("FundMe", async function (){
     
