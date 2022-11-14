@@ -1,13 +1,12 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+# Fund Aarav Jain some Ethereum!
 
 Try running some of the following tasks:
 
 ```shell
 npx hardhat help
 npx hardhat test
-REPORT_GAS=true npx hardhat test
+npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+This Webpage will be hosted soon, and I will bring in some important changes, then you can pour in all your money into me :)

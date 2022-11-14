@@ -1,0 +1,18 @@
+.top-heading{
+    margin-bottom: 5% !important;
+    padding-top: 5% !important;
+}
+#connectButton{
+    margin-bottom: 2em;
+}
+#fundButton{
+    margin-top: 1em;
+}
+.input-group{
+    margin-left: auto;
+    margin-right: auto;
+    width: 20% !important;
+}
+.withdraw{
+    margin-top: 10%;
+}
